@@ -42,4 +42,4 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 </table>
 
 ## 🤝 Open to work
-Currently seeking full time positions for software engineer, machine learning engineer, data scientist, data engineer, ui/ux design, web development roles.
+Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
