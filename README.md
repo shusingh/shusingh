@@ -11,6 +11,8 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 - linkedin: https://www.linkedin.com/in/shusingh/
 - leetcode: https://leetcode.com/shusingh/
 
+
+## ⚙️ Technical Skillset
 <table width="100%">
     <tr>
         <th> ⚡ Proficient in</th>
