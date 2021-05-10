@@ -9,3 +9,4 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 ## 📬 Get in touch
 - mail: ksingh.shubh@gmail.com
 - linkedin: https://www.linkedin.com/in/shusingh/
+- leetcode: https://leetcode.com/shusingh/
