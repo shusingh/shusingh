@@ -20,9 +20,10 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
         <td>
             <ul>
                 <li>Python</li>
-                <li>Javascript/Typescript</li>
-                <li>Vue</li>
-                <li>Angular 10</li>
+                <li>Java</li>
+                <li>C</li>
+                <li>Javascript</li>
+                <li>React</li>
                 <li>Node</li>
                 <li>NoSQL/SQL</li>
                 <li>HTML/CSS</li>
@@ -30,9 +31,8 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
         </td>
         <td>
             <ul>
-                <li>Java</li>
-                <li>C/C++</li>
-                <li>React</li>
+                <li>C++</li>
+                <li>PHP</li>
                 <li>Android</li>
             </ul>
         </td>
