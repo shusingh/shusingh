@@ -1,5 +1,5 @@
 ### Hi there 👋
-![about me image](hero.jpeg)
+![hero image](hero.jpg)
 
 <!--
 **shusingh/shusingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
