@@ -50,28 +50,35 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
         <th>Data Science Skills</th>
     </tr>
     <tr>
-        <th> ⚡ Proficient in</th>
-        <th> 👌 Previously used</th>
-    </tr>
-    <tr>
         <td>
-            <ul>
-                <li>Python</li>
-                <li>Java</li>
-                <li>C</li>
-                <li>Javascript</li>
-                <li>React</li>
-                <li>Node</li>
-                <li>NoSQL/SQL</li>
-                <li>HTML/CSS</li>
-            </ul>
+            <tr>
+                <th> ⚡ Proficient in</th>
+                <th> 👌 Previously used</th>
+            </tr>
+            <tr>
+                <td>
+                    <ul>
+                        <li>Python</li>
+                        <li>Java</li>
+                        <li>C</li>
+                        <li>Javascript</li>
+                        <li>React</li>
+                        <li>Node</li>
+                        <li>NoSQL/SQL</li>
+                        <li>HTML/CSS</li>
+                    </ul>
+                </td>
+                <td>
+                    <ul>
+                        <li>C++</li>
+                        <li>PHP</li>
+                        <li>Android</li>
+                    </ul>
+                </td>
+            </tr>
         </td>
+        <!--  -->
         <td>
-            <ul>
-                <li>C++</li>
-                <li>PHP</li>
-                <li>Android</li>
-            </ul>
         </td>
     </tr>
 </table>
