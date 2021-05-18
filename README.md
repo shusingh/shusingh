@@ -45,6 +45,68 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 </table>
 <!-- new code -->
 
+<table>
+        <tr>
+            <td>Software</td>
+            <td>Data Science</td>
+        </tr>
+        <!-- data row -->
+        <tr>
+            <!-- first data -->
+            <td>
+                <table>
+                <tr>
+                    <th> ⚡ Proficient in</th>
+                    <th> 👌 Previously used</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>C</li>
+                            <li>Javascript</li>
+                            <li>React</li>
+                            <li>Node</li>
+                            <li>NoSQL/SQL</li>
+                            <li>HTML/CSS</li>
+                        </ul>
+                    </td>
+                    <td>
+                        <ul>
+                            <li>C++</li>
+                            <li>PHP</li>
+                            <li>Android</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+            <!-- second data -->
+            <td>
+                <table>
+                <tr>
+                    <th> 📈 Skills</th>
+                </tr>
+                <tr>
+                    <td>
+                        <ul>
+                            <li>Python</li>
+                            <li>Java</li>
+                            <li>C</li>
+                            <li>Javascript</li>
+                            <li>React</li>
+                            <li>Node</li>
+                            <li>NoSQL/SQL</li>
+                            <li>HTML/CSS</li>
+                        </ul>
+                    </td>
+                </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+
 ## 🤝 Open to work
 
 Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
