@@ -91,10 +91,10 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                 <tr>
                     <td>
                         <ul>
-                            <li>Seaborn</li>
-                            <li>Matplotlib</li>
-                            <li>Plotly</li>
-                            <li>sklearn</li>
+                            <li>Statistics & Probability</li>
+                            <li>Seaborn, Matplotlib, Plotly</li>
+                            <li>Tableau</li>
+                            <li>Scikit-learn</li>
                             <li>pandas, geopandas</li>
                             <li>numpy</li>
                             <li>NoSQL</li>
