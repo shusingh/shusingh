@@ -77,7 +77,9 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                 </td>
             </tr>
         </td>
+        </tr>
         <!--  -->
+        <tr>
         <td>
             <tr>
                 <th> ⚡ Proficient in</th>
