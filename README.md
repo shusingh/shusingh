@@ -132,11 +132,11 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                     <td>
                         <ul>
                             <li style="padding:5px"><b>Mathematics:</b> Statistics & Probability</li>
-                            <li><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
-                            <li><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
-                            <li><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
-                            <li><b>Topics:</b> Machine Learning, Deep learning,<br> Data Storytelling</li>
-                            <li><b>Deep Learning Lib:</b> PyTorch, TensorFlow, Keras</li>
+                            <li style="padding:5px"><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
+                            <li style="padding:5px"><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
+                            <li style="padding:5px"><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
+                            <li style="padding:5px"><b>Topics:</b> Machine Learning, Deep learning,<br> Data Storytelling</li>
+                            <li style="padding:5px"><b>Deep Learning Lib:</b> PyTorch, TensorFlow, Keras</li>
                         </ul>
                     </td>
                 </tr>
