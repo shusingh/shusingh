@@ -47,7 +47,7 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 
 <table>
         <tr>
-            <td>Software</td>
+            <td>Software Engineering</td>
             <td>Data Science</td>
         </tr>
         <!-- data row -->
@@ -91,14 +91,16 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                 <tr>
                     <td>
                         <ul>
-                            <li>Python</li>
-                            <li>Java</li>
-                            <li>C</li>
-                            <li>Javascript</li>
-                            <li>React</li>
-                            <li>Node</li>
-                            <li>NoSQL/SQL</li>
-                            <li>HTML/CSS</li>
+                            <li>Seaborn</li>
+                            <li>Matplotlib</li>
+                            <li>Plotly</li>
+                            <li>sklearn</li>
+                            <li>pandas, geopandas</li>
+                            <li>numpy</li>
+                            <li>NoSQL</li>
+                            <li>Machine Learning</li>
+                            <li>pyTorch</li>
+                            <li>TensorFlow</li>
                         </ul>
                     </td>
                 </tr>
