@@ -92,7 +92,7 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                     <td>
                         <ul>
                             <li><b>Mathematics:</b> Statistics & Probability</li>
-                            <li><b>Data Visualization:</b> Seaborn, Matplotlib, Plotly, Tableau, PowerBI</li>
+                            <li><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
                             <li><b>Libraries:</b> Scikit-learn, pandas, numpy, geopandas</li>
                             <li>Machine Learning, Deep learning, Data Storytelling</li>
                             <li><b>Deep Learning Lib:</b> pyTorch, TensorFlow</li>
