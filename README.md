@@ -131,7 +131,7 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                 <tr>
                     <td>
                         <ul>
-                            <li><b>Mathematics:</b> Statistics & Probability</li>
+                            <li style="padding:5px"><b>Mathematics:</b> Statistics & Probability</li>
                             <li><b>Libraries:</b> Scikit-learn, pandas,<br> numpy, geopandas, XGBoost</li>
                             <li><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
                             <li><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
