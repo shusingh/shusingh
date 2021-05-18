@@ -16,36 +16,8 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 
 ## ⚙️ Technical Skillset
 
-<table width="100%">
-    <tr>
-        <th> ⚡ Proficient in</th>
-        <th> 👌 Previously used</th>
-    </tr>
-    <tr>
-        <td>
-            <ul>
-                <li>Python</li>
-                <li>Java</li>
-                <li>C</li>
-                <li>Javascript</li>
-                <li>React</li>
-                <li>Node</li>
-                <li>NoSQL/SQL</li>
-                <li>HTML/CSS</li>
-            </ul>
-        </td>
-        <td>
-            <ul>
-                <li>C++</li>
-                <li>PHP</li>
-                <li>Android</li>
-            </ul>
-        </td>
-    </tr>
-</table>
 <!-- new code -->
-
-<table>
+<table width="100%">
         <tr>
             <td>Software Engineering</td>
             <td>Data Science</td>
@@ -92,10 +64,11 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
                     <td>
                         <ul>
                             <li><b>Mathematics:</b> Statistics & Probability</li>
+                            <li><b>Libraries:</b> Scikit-learn, pandas, numpy, geopandas, XGBoost</li>
+                            <li><b>Data Mining:</b> Scrapy, BeautifulSoup</li>
                             <li><b>Data Visualization:</b> Seaborn, Matplotlib,<br> Plotly, Tableau, PowerBI</li>
-                            <li><b>Libraries:</b> Scikit-learn, pandas, numpy, geopandas</li>
-                            <li>Machine Learning, Deep learning, Data Storytelling</li>
-                            <li><b>Deep Learning Lib:</b> pyTorch, TensorFlow</li>
+                            <li><b>Topics:</b> Machine Learning, Deep learning, Data Storytelling</li>
+                            <li><b>Deep Learning Lib:</b> PyTorch, TensorFlow, Keras</li>
                         </ul>
                     </td>
                 </tr>
