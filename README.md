@@ -14,7 +14,3 @@ Welcome to my Github! I'm Shubham, a Data Science student at Indiana University 
 - mail: ksingh.shubh@gmail.com
 - linkedin: https://www.linkedin.com/in/shusingh/
 - leetcode: https://leetcode.com/shusingh/
-
-## 🤝 Open to work
-
-Currently seeking full time positions for software engineer, data engineer, ui/ux design, web development roles.
