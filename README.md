@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![hero image](hero.jpg)
+![hero image](hero.png)
 
 [![LinkedIn Shubham Singh](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shusingh/)
 
