@@ -17,4 +17,4 @@
 Go · TypeScript · React · Node.js · AWS · SQL · Python · Java
 
 📫 **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/shusingh) · [GitHub](https://github.com/shusingh)
+[LinkedIn](https://www.linkedin.com/in/shusingh) · [GitHub](https://github.com/shusingh) · [Portfolio](https://shusingh.github.io/)
