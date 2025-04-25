@@ -1,15 +1,10 @@
-### Hi there 👋
-
-![hero image](hero.png)
-
-[![LinkedIn Shubham Singh](https://img.shields.io/badge/shusingh-linkedin-yellow?style=for-the-badge)](https://www.linkedin.com/in/shusingh/)
-
-Hello, I'm Shubham! 👋 Passionate about building scalable software and harnessing the power of cloud technologies to solve complex problems. Welcome to my GitHub space where I share my journey through code, one repository at a time.
-
-
-## 📬 Get in touch
-
-- portfolio website: https://shusingh.github.io/
-- mail: ksingh.shubh@gmail.com
-- linkedin: https://www.linkedin.com/in/shusingh/
-- leetcode: https://leetcode.com/shusingh/
+<a href="https://github.com/shusingh">
+  <img align="center" width="49%" src="./header.svg" />
+</a>
+<br/>
+<a href="https://github.com/shusingh">
+  <img align="center" width="49%" src="./repositories.svg" />
+</a>
+<a href="https://github.com/shusingh">
+  <img align="center" width="49%" src="./acti_comm.svg" />
+</a>
