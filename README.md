@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/shusingh" width="120" alt="Shubham Singh Avatar">
-</p>
-
 <h2 align="center">Hi there, I'm Shubham 👋</h2>
 
 <p align="center">
