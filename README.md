@@ -11,13 +11,6 @@ I'm a Software Development Engineer at Amazon, where I design and build full-sta
 - ⚙️ **Automation & DevOps**: Automate workflows, streamline deployments, and reduce operational toil with a strong focus on maintainability and reliability.
 
 
-## 🌱 Currently Exploring
-
-- 🧱 **Building Microservices in Go** – Designing clean, idiomatic, and production-ready services with Go’s concurrency superpowers.
-- 🤖 **Machine Learning & Model Training** – Experimenting with training custom models and understanding how data truly fuels intelligence.
-- 🧠 **AI + Infra Fusion** – Bridging infrastructure with AI - exploring how large-scale systems can serve smarter, personalized experiences in real time.
-
-
 ## 📸 Outside Tech
 
 When I’m not coding, you’ll probably find me:
