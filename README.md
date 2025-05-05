@@ -1,20 +1,38 @@
-<h2 align="center">Hi there, I'm Shubham 👋</h2>
+# 👋 Hi, I'm Shubham Singh
 
-<p align="center">
-  Software Engineer · Backend & Full-Stack · Cloud Enthusiast · Builder at Heart
-</p>
+I'm a Software Development Engineer at Amazon, where I design and build full-stack systems that simplify complex workflows and drive real business impact.
+
+
+## 🚀 What I Do
+
+- 🛠 **Backend Engineering**: Craft scalable services in **Go**, **Java**, and **Python** using modern infrastructure—**Kubernetes**, **Docker**, **AWS**, and **CI/CD pipelines**.
+- 🌐 **Frontend Development**: Build sleek, responsive UIs with **React**, **TypeScript**, and **Tailwind CSS**.
+- 🔁 **Data Pipelines**: Develop high-throughput **PySpark** ETL pipelines processing millions of records monthly.
+- ⚙️ **Automation & DevOps**: Automate workflows, streamline deployments, and reduce operational toil with a strong focus on maintainability and reliability.
+
+
+## 🌱 Currently Exploring
+
+- 🧱 **Building Microservices in Go** – Designing clean, idiomatic, and production-ready services with Go’s concurrency superpowers.
+- 🤖 **Machine Learning & Model Training** – Experimenting with training custom models and understanding how data truly fuels intelligence.
+- 🧠 **AI + Infra Fusion** – Bridging infrastructure with AI - exploring how large-scale systems can serve smarter, personalized experiences in real time.
+
+
+## 📸 Outside Tech
+
+When I’m not coding, you’ll probably find me:
+- 🏋️ Lifting at the gym
+- 📷 Shooting street and travel photos on my **Fujifilm X100VI**
+- 📖 Diving into a good book on architecture, design, or philosophy
+
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/shusingh/)
+- 🧠 [Personal Portfolio](https://shusingh.github.io/)
+- 📧 ksingh.shubh@gmail.com
 
 ---
 
-🌱 I’m currently working at **Amazon** as an SDE  
-🚀 Building side projects in **Go**, **React**, and **TypeScript**  
-🎯 Always learning, always shipping  
-📍 Based in Seattle, WA
-
----
-
-🛠️ **Tech Stack**  
-Go · TypeScript · React · Node.js · AWS · SQL · Python · Java
-
-📫 **Let’s Connect!**  
-[LinkedIn](https://www.linkedin.com/in/shusingh) · [GitHub](https://github.com/shusingh) · [Portfolio](https://shusingh.github.io/)
+> *“Engineering starts with empathy.”*  
+> I believe the best systems are not only scalable and robust—but also **thoughtful** in design and **intuitive** for users.
